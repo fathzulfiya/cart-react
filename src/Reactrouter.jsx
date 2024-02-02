@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { BrowserRouter, Routes, Route } from 'react-router-dom'
+import { BrowserRouter, Routes, Route, HashRouter } from 'react-router-dom'
 import Aboutus from './MUI/AboutUs/Aboutus';
 import DiscountView from './MUI/DiscountView/DiscountView';
 import Home from './MUI/HomePage/Home';
@@ -26,7 +26,7 @@ export default function Reactrouter() {
   return (
     <>
       <div>
-        <BrowserRouter>
+        <HashRouter>
           <Routes>
 
             <Route exact path='/' element={<Home />}></Route>
@@ -47,7 +47,7 @@ export default function Reactrouter() {
             <Route exact path='/CardData2' element={<CardData2 />}></Route>
 
           </Routes>
-        </BrowserRouter>
+        </HashRouter>
       </div>
     </>
   )
