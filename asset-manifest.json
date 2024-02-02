@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/origin%20https://github.com/fathzulfiya/cart-react/static/css/main.2d6b1545.css",
-    "main.js": "/origin%20https://github.com/fathzulfiya/cart-react/static/js/main.13cf3adb.js",
-    "static/js/787.628a4121.chunk.js": "/origin%20https://github.com/fathzulfiya/cart-react/static/js/787.628a4121.chunk.js",
-    "static/media/p10.jpg": "/origin%20https://github.com/fathzulfiya/cart-react/static/media/p10.4cef07ccad61c25a8fd6.jpg",
-    "static/media/p1.jpg": "/origin%20https://github.com/fathzulfiya/cart-react/static/media/p1.515c72b2af57c97b2fa8.jpg",
-    "static/media/p11.jpg": "/origin%20https://github.com/fathzulfiya/cart-react/static/media/p11.cd2578e51a1da7d77245.jpg",
-    "static/media/pic1.jpg": "/origin%20https://github.com/fathzulfiya/cart-react/static/media/pic1.7c1353303153b5e1f596.jpg",
-    "static/media/pic4.jpeg": "/origin%20https://github.com/fathzulfiya/cart-react/static/media/pic4.131db6c294b3c9a42910.jpeg",
-    "static/media/i7.jpg": "/origin%20https://github.com/fathzulfiya/cart-react/static/media/i7.ec3f810beff3cf669bdd.jpg",
-    "static/media/pic7.jpeg": "/origin%20https://github.com/fathzulfiya/cart-react/static/media/pic7.36103a1472cf8f664e4c.jpeg",
-    "static/media/pic6.jpeg": "/origin%20https://github.com/fathzulfiya/cart-react/static/media/pic6.0001a84885d8913edae3.jpeg",
-    "static/media/pic3.jpeg": "/origin%20https://github.com/fathzulfiya/cart-react/static/media/pic3.f6f212c6f05e534a6b73.jpeg",
-    "static/media/s5.jpeg": "/origin%20https://github.com/fathzulfiya/cart-react/static/media/s5.d26f3482e15b1a577a88.jpeg",
-    "static/media/sk6.jpeg": "/origin%20https://github.com/fathzulfiya/cart-react/static/media/sk6.cf0e11ca00c22ff86e72.jpeg",
-    "static/media/s2.jpeg": "/origin%20https://github.com/fathzulfiya/cart-react/static/media/s2.0df790ea21eb3375f878.jpeg",
-    "static/media/s7.jpeg": "/origin%20https://github.com/fathzulfiya/cart-react/static/media/s7.d2dd9baeb4d452c0df8d.jpeg",
-    "static/media/pic9.jpeg": "/origin%20https://github.com/fathzulfiya/cart-react/static/media/pic9.e13e1839d0e705d2388c.jpeg",
-    "static/media/pic5.jpeg": "/origin%20https://github.com/fathzulfiya/cart-react/static/media/pic5.7ad5b00f67ad3621f7f6.jpeg",
-    "index.html": "/origin%20https://github.com/fathzulfiya/cart-react/index.html",
-    "main.2d6b1545.css.map": "/origin%20https://github.com/fathzulfiya/cart-react/static/css/main.2d6b1545.css.map",
-    "main.13cf3adb.js.map": "/origin%20https://github.com/fathzulfiya/cart-react/static/js/main.13cf3adb.js.map",
-    "787.628a4121.chunk.js.map": "/origin%20https://github.com/fathzulfiya/cart-react/static/js/787.628a4121.chunk.js.map"
+    "main.css": "/fathzulfiya/cart-react/static/css/main.2d6b1545.css",
+    "main.js": "/fathzulfiya/cart-react/static/js/main.838805d6.js",
+    "static/js/787.628a4121.chunk.js": "/fathzulfiya/cart-react/static/js/787.628a4121.chunk.js",
+    "static/media/p10.jpg": "/fathzulfiya/cart-react/static/media/p10.4cef07ccad61c25a8fd6.jpg",
+    "static/media/p1.jpg": "/fathzulfiya/cart-react/static/media/p1.515c72b2af57c97b2fa8.jpg",
+    "static/media/p11.jpg": "/fathzulfiya/cart-react/static/media/p11.cd2578e51a1da7d77245.jpg",
+    "static/media/pic1.jpg": "/fathzulfiya/cart-react/static/media/pic1.7c1353303153b5e1f596.jpg",
+    "static/media/pic4.jpeg": "/fathzulfiya/cart-react/static/media/pic4.131db6c294b3c9a42910.jpeg",
+    "static/media/i7.jpg": "/fathzulfiya/cart-react/static/media/i7.ec3f810beff3cf669bdd.jpg",
+    "static/media/pic7.jpeg": "/fathzulfiya/cart-react/static/media/pic7.36103a1472cf8f664e4c.jpeg",
+    "static/media/pic6.jpeg": "/fathzulfiya/cart-react/static/media/pic6.0001a84885d8913edae3.jpeg",
+    "static/media/pic3.jpeg": "/fathzulfiya/cart-react/static/media/pic3.f6f212c6f05e534a6b73.jpeg",
+    "static/media/s5.jpeg": "/fathzulfiya/cart-react/static/media/s5.d26f3482e15b1a577a88.jpeg",
+    "static/media/sk6.jpeg": "/fathzulfiya/cart-react/static/media/sk6.cf0e11ca00c22ff86e72.jpeg",
+    "static/media/s2.jpeg": "/fathzulfiya/cart-react/static/media/s2.0df790ea21eb3375f878.jpeg",
+    "static/media/s7.jpeg": "/fathzulfiya/cart-react/static/media/s7.d2dd9baeb4d452c0df8d.jpeg",
+    "static/media/pic9.jpeg": "/fathzulfiya/cart-react/static/media/pic9.e13e1839d0e705d2388c.jpeg",
+    "static/media/pic5.jpeg": "/fathzulfiya/cart-react/static/media/pic5.7ad5b00f67ad3621f7f6.jpeg",
+    "index.html": "/fathzulfiya/cart-react/index.html",
+    "main.2d6b1545.css.map": "/fathzulfiya/cart-react/static/css/main.2d6b1545.css.map",
+    "main.838805d6.js.map": "/fathzulfiya/cart-react/static/js/main.838805d6.js.map",
+    "787.628a4121.chunk.js.map": "/fathzulfiya/cart-react/static/js/787.628a4121.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d6b1545.css",
-    "static/js/main.13cf3adb.js"
+    "static/js/main.838805d6.js"
   ]
 }
